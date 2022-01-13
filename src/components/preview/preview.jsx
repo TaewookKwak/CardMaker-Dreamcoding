@@ -1,5 +1,4 @@
 import React from 'react'
-import { memo } from 'react/cjs/react.development'
 import Card from '../card/card'
 import styles from './preview.module.css'
 

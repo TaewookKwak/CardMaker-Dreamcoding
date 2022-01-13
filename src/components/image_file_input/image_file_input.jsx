@@ -1,5 +1,4 @@
-import React, { useState } from 'react'
-import { useRef } from 'react/cjs/react.development'
+import React, { useState, useRef } from 'react'
 import styles from './image_file_input.module.css'
 function ImageFileInput({ uploadImage, name, onFileChange }) {
   const [loading, setloading] = useState(false)

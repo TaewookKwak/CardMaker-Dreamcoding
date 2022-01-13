@@ -9,4 +9,4 @@ function Button({ name, onClick }) {
   )
 }
 
-export default memo(Button)
+export default Button
