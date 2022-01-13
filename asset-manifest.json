@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CardMaker-Dreamcoding/static/css/main.d41fbc92.css",
+    "main.js": "/CardMaker-Dreamcoding/static/js/main.76721ff7.js",
+    "index.html": "/CardMaker-Dreamcoding/index.html",
+    "main.d41fbc92.css.map": "/CardMaker-Dreamcoding/static/css/main.d41fbc92.css.map",
+    "main.76721ff7.js.map": "/CardMaker-Dreamcoding/static/js/main.76721ff7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41fbc92.css",
+    "static/js/main.76721ff7.js"
+  ]
+}
