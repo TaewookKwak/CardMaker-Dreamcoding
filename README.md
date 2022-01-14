@@ -42,3 +42,17 @@
 ---
 
 ### Preview
+
+1. LOGIN PAGE
+  Able to login with
+  - Sign up
+  - Google
+  - Github
+<img src="https://user-images.githubusercontent.com/93242268/149446218-6bdbc700-a109-4013-b4bd-a943bf3b68a1.PNG"  width="700" height="370">
+
+2. SIGN UP
+
+<img src="https://user-images.githubusercontent.com/93242268/149446224-5a4e114b-a21a-4043-a1a5-ca4cbd3f3a47.PNG"  width="700" height="370">
+
+3. MAKE CARD
+<img src="https://user-images.githubusercontent.com/93242268/149446228-edec78a6-4130-4199-a6ca-0d84dbca24df.PNG"  width="700" height="370">
